@@ -65,6 +65,7 @@ By default the database has an account with the **username: admin and password: 
 More account can be created in the phpmyadmin control panel.
 
 ## Showcase
-![Welcome img](https://imgur.com/WAY2X69)
-![Welcome img](https://imgur.com/yT0SITO)
-![Welcome img](https://imgur.com/mfGUTpY)
+<img src="https://i.imgur.com/WAY2X69.png" alt="Welcome img" width="600"/>
+<img src="https://i.imgur.com/yT0SITO.png" alt="Login img" width="600"/>
+<img src="https://i.imgur.com/mfGUTpY.png" alt="Dashboard img" width="600"/>
+
