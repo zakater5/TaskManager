@@ -69,3 +69,6 @@ More account can be created in the phpmyadmin control panel.
 <img src="https://i.imgur.com/yT0SITO.png" alt="Login img" width="600"/>
 <img src="https://i.imgur.com/mfGUTpY.png" alt="Dashboard img" width="600"/>
 
+### Full walkthrough example
+<img src="https://i.imgur.com/Jmp1NG7.gif" alt="Dashboard img" width="800"/>
+
